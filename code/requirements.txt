@@ -1,0 +1,4 @@
+pdfplumber==0.11.0   # reliable text/table extraction
+camelot-py==0.11.0   # parses tabular PDFs (lattice/stream)
+pandas>=2.2
+openpyxl>=3.1

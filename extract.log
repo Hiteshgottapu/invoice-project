@@ -1,0 +1,34 @@
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+INFO | root | Parsed Amazon invoice: amazon (1).pdf
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+INFO | root | Parsed Amazon invoice: amazon (2).pdf
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+INFO | root | Parsed Amazon invoice: amazon (3).pdf
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+INFO | root | Parsed Amazon invoice: amazon (4).pdf
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+WARNING | pdfminer.pdfpage | CropBox missing from /Page, defaulting to MediaBox
+INFO | root | Parsed Amazon invoice: amazon (5).pdf
+WARNING | root | No tables found in Flipkart invoice: flipkart (1).pdf
+WARNING | root | Skipped Flipkart invoice (no table): flipkart (1).pdf
+INFO | root | Parsed Flipkart invoice: flipkart (2).pdf
+INFO | root | Parsed Flipkart invoice: flipkart (3).pdf
